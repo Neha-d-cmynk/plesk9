@@ -6,10 +6,6 @@ sites:
   - name: Plesk 9
     url: https://plesk9.samitsolutions.com
     port: 8443
-  - name: OBSN
-    url: https://obsn.org
-  - name: Saffron Cary
-    url: https://saffroncary.com
   - name: Chaat Mandi NC
     url: https://chaatmandinc.com
   - name: OBSN Staging
@@ -46,14 +42,24 @@ sites:
     url: https://chaskaindiancuisine.com
   - name: Tara Gems Galore
     url: https://taragemsgalorellc.com
-  - name: Saffron Durham
-    url: https://saffrondurham.com
+  - name: tandooribitesdurham
+    url: https://tandooribitesdurham.com
   - name: Vata Vriksh
     url: https://vatavriksh.com
   - name: Launch Morrisville
     url: https://LaunchMorrisville.org
   - name: Techlogyx
     url: https://techlogyx.com
+  - name: clintrialresearch
+    url: https://clintrialresearch.com
+  - name: directedmarketing
+    url: https://directedmarketing.solutions
+  - name: kingstandoorandbar
+    url: https://kingstandoorandbar.com
+  - name: raidentechgroup
+    url: https://raidentechgroup.com
+  
+    
 
     
 status-website:
